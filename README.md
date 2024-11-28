@@ -19,7 +19,7 @@ A simple tool to encrypt and decrypt files using XOR encryption. This program is
 - **Download the program** and run it directly on your Windows machine.
 
 ### Running the Tool
-1. **Download the executable** from the [EXECUTABLE](https://github.com/yourusername/.EXECUTABLE ) section or clone the repository and use the executable inside the folder.
+1. **Download the executable** from the [EXECUTABLE](https://github.com/CosmicViraj/XOR-File-Encryption/tree/main/.EXECUTABLE%20 ) section or clone the repository and use the executable inside the folder.
 2. **Place the file** you want to encrypt or decrypt in the same directory as the `XOR_encryption.exe` file.
 3. **Run the program** by double-clicking `XOR_encryption.exe` or running it from the command prompt:
    ```bash
